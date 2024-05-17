@@ -1,11 +1,16 @@
 package org.example;
 
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Random;
 
 public class Simulation {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, FileNotFoundException {
+        PrintStream fileOut = new PrintStream(new File("output/simulation-run.txt"));
+        System.setOut(fileOut);
         var simulationDuration = 4 * 60;
         var simulation = new Simulation();
         var washPark = new WashPark();
@@ -22,6 +27,7 @@ public class Simulation {
             if (i < simulationDuration && (i % 5 == 0)) {
                 var carCount = simulation.getCarsFor(i);
                 var cars = new ArrayList<Car>();
+                System.out.println("Time: " + i + ": " + carCount + " cars arrived");
                 for (int j = 0; j < carCount; j++) {
                     cars.add(new Car(i, washPark, simulation.getInteriorWashingFor(i)));
                 }
@@ -39,13 +45,13 @@ public class Simulation {
 
     public int getCarsFor(int minute) {
         if (minute < 60) {
-            return new Random().nextInt(3) + 1;
+            return new Random().nextInt(1, 4);
         }
         if (minute < 120) {
-            return new Random().nextInt(5) + 3;
+            return new Random().nextInt(3, 6);
         }
 
-        return new Random().nextInt(2) + 1;
+        return new Random().nextInt(1, 3);
     }
 
     public boolean getInteriorWashingFor(int minute) {
