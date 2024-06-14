@@ -6,41 +6,33 @@ import java.io.FileNotFoundException;
 import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class Simulation {
+    private static final ExecutorService pool = Executors.newCachedThreadPool();
+
     public static void main(String[] args) throws InterruptedException, FileNotFoundException {
-        PrintStream fileOut = new PrintStream(new File("output/simulation-run.txt"));
+        PrintStream fileOut = new PrintStream(new File("output/simulation-run-cached-thread-pool.txt"));
         System.setOut(fileOut);
         var simulationDuration = 4 * 60;
         var simulation = new Simulation();
         var washPark = new WashPark();
 
-        var threads = new ArrayList<Thread>();
-        var finished = false;
-        var i = 0;
-        while (!finished) {
+        for (int i = 0; i < simulationDuration; i++) {
             washPark.setSimulationTime(i);
-            var allFinished = (threads.isEmpty()) || threads.stream().map(Thread::isAlive).noneMatch(b -> b);
-            if ((i > simulationDuration) && allFinished) {
-                finished = true;
-            }
-            if (i < simulationDuration && (i % 5 == 0)) {
+            if (i % 5 == 0) {
                 var carCount = simulation.getCarsFor(i);
                 var cars = new ArrayList<Car>();
                 System.out.println("Time: " + i + ": " + carCount + " cars arrived");
                 for (int j = 0; j < carCount; j++) {
                     cars.add(new Car(i, washPark, simulation.getInteriorWashingFor(i)));
                 }
-                cars.forEach(car -> {
-                    var thread = new Thread(car);
-                    threads.add(thread);
-                    thread.start();
-                });
+                cars.forEach(pool::submit);
             }
             Thread.sleep(1000);
-            i++;
         }
-        System.out.println("Simulation finished after " + i + " minutes");
+        pool.shutdown();
     }
 
     public int getCarsFor(int minute) {

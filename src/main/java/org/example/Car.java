@@ -29,7 +29,6 @@ public class Car implements Runnable {
             try {
                 this.washPark.washCar(this);
                 this.washPark.cleanInterior(this);
-
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }

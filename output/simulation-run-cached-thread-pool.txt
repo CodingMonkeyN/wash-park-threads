@@ -1,0 +1,558 @@
+Time: 0: 2 cars arrived
+Time: 0: Car 1 arrived at the wash part and wants to wash and clean its interior
+Time: 0: Car 2 arrived at the wash part and wants to wash and clean its interior
+Time: 0: Car 2 is using a wash street and needs 8 minutes
+Time: 0: Car 1 is using a wash street and needs 8 minutes
+Time: 5: 2 cars arrived
+Time: 5: Car 3 arrived and wants to wash only
+Time: 5: Car 4 arrived and wants to wash only
+Time: 5: Car 3 is using a wash street and needs 5 minutes
+Time: 7: Car 2 finished washing
+Time: 7: Car 1 finished washing
+Time: 7: Car 2 is using an interior cleaning box and needs 5 minutes
+Time: 7: Car 1 is using an interior cleaning box and needs 10 minutes
+Time: 7: Car 4 is using a wash street and needs 12 minutes
+Time: 9: Car 3 finished washing
+Car 3 finished cleaning and left the wash park
+Time: 10: 2 cars arrived
+Time: 10: Car 5 arrived at the wash part and wants to wash and clean its interior
+Time: 10: Car 6 arrived at the wash part and wants to wash and clean its interior
+Time: 10: Car 5 is using a wash street and needs 5 minutes
+Time: 10: Car 6 is using a wash street and needs 7 minutes
+Time: 12: Car 2 finished interior cleaning
+Car 2 finished cleaning and left the wash park
+Time: 14: Car 5 finished washing
+Time: 14: Car 5 is using an interior cleaning box and needs 10 minutes
+Time: 15: 2 cars arrived
+Time: 15: Car 7 arrived and wants to wash only
+Time: 15: Car 8 arrived at the wash part and wants to wash and clean its interior
+Time: 15: Car 7 is using a wash street and needs 8 minutes
+Time: 16: Car 6 finished washing
+Time: 16: Car 8 is using a wash street and needs 5 minutes
+Time: 17: Car 1 finished interior cleaning
+Car 1 finished cleaning and left the wash park
+Time: 19: Car 4 finished washing
+Car 4 finished cleaning and left the wash park
+Time: 20: 2 cars arrived
+Time: 20: Car 9 arrived at the wash part and wants to wash and clean its interior
+Time: 20: Car 10 arrived at the wash part and wants to wash and clean its interior
+Time: 20: Car 9 is using a wash street and needs 8 minutes
+Time: 21: Car 8 finished washing
+Time: 21: Car 10 is using a wash street and needs 12 minutes
+Time: 21: Car 8 is using an interior cleaning box and needs 5 minutes
+Time: 22: Car 7 finished washing
+Car 7 finished cleaning and left the wash park
+Time: 24: Car 5 finished interior cleaning
+Car 5 finished cleaning and left the wash park
+Time: 25: 1 cars arrived
+Time: 25: Car 11 arrived and wants to wash only
+Time: 25: Car 11 is using a wash street and needs 6 minutes
+Time: 26: Car 8 finished interior cleaning
+Car 8 finished cleaning and left the wash park
+Time: 27: Car 9 finished washing
+Time: 27: Car 9 is using an interior cleaning box and needs 15 minutes
+Time: 30: 1 cars arrived
+Time: 30: Car 12 arrived at the wash part and wants to wash and clean its interior
+Time: 30: Car 12 is using a wash street and needs 10 minutes
+Time: 30: Car 11 finished washing
+Car 11 finished cleaning and left the wash park
+Time: 33: Car 10 finished washing
+Time: 33: Car 10 is using an interior cleaning box and needs 15 minutes
+Time: 35: 1 cars arrived
+Time: 35: Car 13 arrived at the wash part and wants to wash and clean its interior
+Time: 35: Car 13 is using a wash street and needs 10 minutes
+Time: 39: Car 12 finished washing
+Time: 40: 2 cars arrived
+Time: 40: Car 14 arrived at the wash part and wants to wash and clean its interior
+Time: 40: Car 15 arrived and wants to wash only
+Time: 40: Car 14 is using a wash street and needs 10 minutes
+Time: 40: Car 15 is using a wash street and needs 12 minutes
+Time: 42: Car 9 finished interior cleaning
+Car 9 finished cleaning and left the wash park
+Time: 44: Car 13 finished washing
+Time: 44: Car 13 is using an interior cleaning box and needs 5 minutes
+Time: 45: 1 cars arrived
+Time: 45: Car 16 arrived at the wash part and wants to wash and clean its interior
+Time: 45: Car 16 is using a wash street and needs 11 minutes
+Time: 48: Car 10 finished interior cleaning
+Car 10 finished cleaning and left the wash park
+Time: 49: Car 13 finished interior cleaning
+Car 13 finished cleaning and left the wash park
+Time: 49: Car 14 finished washing
+Time: 49: Car 14 is using an interior cleaning box and needs 15 minutes
+Time: 50: 2 cars arrived
+Time: 50: Car 17 arrived at the wash part and wants to wash and clean its interior
+Time: 50: Car 18 arrived at the wash part and wants to wash and clean its interior
+Time: 50: Car 17 is using a wash street and needs 9 minutes
+Time: 51: Car 15 finished washing
+Car 15 finished cleaning and left the wash park
+Time: 51: Car 18 is using a wash street and needs 6 minutes
+Time: 55: 2 cars arrived
+Time: 55: Car 19 arrived and wants to wash only
+Time: 55: Car 20 arrived at the wash part and wants to wash and clean its interior
+Time: 55: Car 16 finished washing
+Time: 55: Car 16 is using an interior cleaning box and needs 5 minutes
+Time: 55: Car 19 is using a wash street and needs 5 minutes
+Time: 57: Car 18 finished washing
+Time: 57: Car 20 is using a wash street and needs 8 minutes
+Time: 58: Car 17 finished washing
+Time: 60: 3 cars arrived
+Time: 60: Car 21 arrived at the wash part and wants to wash and clean its interior
+Time: 60: Car 22 arrived at the wash part and wants to wash and clean its interior
+Time: 60: Car 23 arrived and wants to wash only
+Time: 60: Car 21 is using a wash street and needs 7 minutes
+Time: 60: Car 16 finished interior cleaning
+Car 16 finished cleaning and left the wash park
+Time: 60: Car 19 finished washing
+Car 19 finished cleaning and left the wash park
+Time: 60: Car 22 is using a wash street and needs 5 minutes
+Time: 64: Car 14 finished interior cleaning
+Car 14 finished cleaning and left the wash park
+Time: 65: 4 cars arrived
+Time: 65: Car 24 arrived at the wash part and wants to wash and clean its interior
+Time: 65: Car 25 arrived and wants to wash only
+Time: 65: Car 26 arrived and wants to wash only
+Time: 65: Car 27 arrived at the wash part and wants to wash and clean its interior
+Time: 65: Car 20 finished washing
+Time: 65: Car 20 is using an interior cleaning box and needs 5 minutes
+Time: 65: Car 23 is using a wash street and needs 5 minutes
+Time: 65: Car 22 finished washing
+Time: 65: Car 22 is using an interior cleaning box and needs 10 minutes
+Time: 65: Car 24 is using a wash street and needs 10 minutes
+Time: 66: Car 21 finished washing
+Time: 66: Car 25 is using a wash street and needs 12 minutes
+Time: 70: 3 cars arrived
+Time: 70: Car 28 arrived at the wash part and wants to wash and clean its interior
+Time: 70: Car 29 arrived at the wash part and wants to wash and clean its interior
+Time: 70: Car 30 arrived and wants to wash only
+Time: 70: Car 20 finished interior cleaning
+Car 20 finished cleaning and left the wash park
+Time: 70: Car 23 finished washing
+Car 23 finished cleaning and left the wash park
+Time: 70: Car 26 is using a wash street and needs 8 minutes
+Time: 75: 5 cars arrived
+Time: 75: Car 31 arrived at the wash part and wants to wash and clean its interior
+Time: 75: Car 32 arrived and wants to wash only
+Time: 75: Car 33 arrived and wants to wash only
+Time: 75: Car 34 arrived and wants to wash only
+Time: 75: Car 35 arrived at the wash part and wants to wash and clean its interior
+Time: 75: Car 22 finished interior cleaning
+Car 22 finished cleaning and left the wash park
+Time: 75: Car 24 finished washing
+Time: 75: Car 24 is using an interior cleaning box and needs 5 minutes
+Time: 75: Car 27 is using a wash street and needs 12 minutes
+Time: 78: Car 26 finished washing
+Car 26 finished cleaning and left the wash park
+Time: 78: Car 28 is using a wash street and needs 6 minutes
+Time: 78: Car 25 finished washing
+Car 25 finished cleaning and left the wash park
+Time: 78: Car 29 is using a wash street and needs 5 minutes
+Time: 80: 5 cars arrived
+Time: 80: Car 36 arrived at the wash part and wants to wash and clean its interior
+Time: 80: Car 37 arrived and wants to wash only
+Time: 80: Car 38 arrived and wants to wash only
+Time: 80: Car 39 arrived and wants to wash only
+Time: 80: Car 40 arrived at the wash part and wants to wash and clean its interior
+Time: 80: Car 24 finished interior cleaning
+Car 24 finished cleaning and left the wash park
+Time: 83: Car 29 finished washing
+Time: 83: Car 29 is using an interior cleaning box and needs 10 minutes
+Time: 83: Car 30 is using a wash street and needs 10 minutes
+Time: 84: Car 28 finished washing
+Time: 84: Car 28 is using an interior cleaning box and needs 5 minutes
+Time: 84: Car 31 is using a wash street and needs 8 minutes
+Time: 85: 4 cars arrived
+Time: 85: Car 41 arrived and wants to wash only
+Time: 85: Car 42 arrived and wants to wash only
+Time: 85: Car 43 arrived at the wash part and wants to wash and clean its interior
+Time: 85: Car 44 arrived at the wash part and wants to wash and clean its interior
+Time: 87: Car 27 finished washing
+Time: 87: Car 32 is using a wash street and needs 12 minutes
+Time: 89: Car 28 finished interior cleaning
+Car 28 finished cleaning and left the wash park
+Time: 90: 5 cars arrived
+Time: 90: Car 45 arrived and wants to wash only
+Time: 90: Car 46 arrived and wants to wash only
+Time: 90: Car 47 arrived at the wash part and wants to wash and clean its interior
+Time: 90: Car 48 arrived and wants to wash only
+Time: 90: Car 49 arrived and wants to wash only
+Time: 92: Car 31 finished washing
+Time: 92: Car 31 is using an interior cleaning box and needs 15 minutes
+Time: 92: Car 33 is using a wash street and needs 11 minutes
+Time: 93: Car 29 finished interior cleaning
+Car 29 finished cleaning and left the wash park
+Time: 93: Car 30 finished washing
+Car 30 finished cleaning and left the wash park
+Time: 93: Car 34 is using a wash street and needs 11 minutes
+Time: 95: 3 cars arrived
+Time: 95: Car 50 arrived at the wash part and wants to wash and clean its interior
+Time: 95: Car 51 arrived at the wash part and wants to wash and clean its interior
+Time: 95: Car 52 arrived and wants to wash only
+Time: 99: Car 32 finished washing
+Car 32 finished cleaning and left the wash park
+Time: 99: Car 35 is using a wash street and needs 6 minutes
+Time: 100: 3 cars arrived
+Time: 100: Car 53 arrived and wants to wash only
+Time: 100: Car 54 arrived and wants to wash only
+Time: 100: Car 55 arrived at the wash part and wants to wash and clean its interior
+Time: 103: Car 33 finished washing
+Car 33 finished cleaning and left the wash park
+Time: 103: Car 36 is using a wash street and needs 12 minutes
+Time: 104: Car 34 finished washing
+Car 34 finished cleaning and left the wash park
+Time: 104: Car 37 is using a wash street and needs 11 minutes
+Time: 105: 5 cars arrived
+Time: 105: Car 56 arrived and wants to wash only
+Time: 105: Car 57 arrived and wants to wash only
+Time: 105: Car 58 arrived and wants to wash only
+Time: 105: Car 59 arrived at the wash part and wants to wash and clean its interior
+Time: 105: Car 60 arrived and wants to wash only
+Time: 105: Car 35 finished washing
+Time: 105: Car 35 is using an interior cleaning box and needs 10 minutes
+Time: 105: Car 38 is using a wash street and needs 10 minutes
+Time: 107: Car 31 finished interior cleaning
+Car 31 finished cleaning and left the wash park
+Time: 110: 4 cars arrived
+Time: 110: Car 61 arrived and wants to wash only
+Time: 110: Car 62 arrived at the wash part and wants to wash and clean its interior
+Time: 110: Car 63 arrived and wants to wash only
+Time: 110: Car 64 arrived at the wash part and wants to wash and clean its interior
+Time: 115: 3 cars arrived
+Time: 115: Car 65 arrived and wants to wash only
+Time: 115: Car 66 arrived at the wash part and wants to wash and clean its interior
+Time: 115: Car 67 arrived and wants to wash only
+Time: 115: Car 36 finished washing
+Time: 115: Car 36 is using an interior cleaning box and needs 5 minutes
+Time: 115: Car 39 is using a wash street and needs 10 minutes
+Time: 115: Car 38 finished washing
+Car 38 finished cleaning and left the wash park
+Time: 115: Car 35 finished interior cleaning
+Car 35 finished cleaning and left the wash park
+Time: 115: Car 40 is using a wash street and needs 8 minutes
+Time: 115: Car 37 finished washing
+Car 37 finished cleaning and left the wash park
+Time: 115: Car 41 is using a wash street and needs 11 minutes
+Time: 120: 2 cars arrived
+Time: 120: Car 68 arrived at the wash part and wants to wash and clean its interior
+Time: 120: Car 69 arrived at the wash part and wants to wash and clean its interior
+Time: 120: Car 36 finished interior cleaning
+Car 36 finished cleaning and left the wash park
+Time: 123: Car 40 finished washing
+Time: 123: Car 40 is using an interior cleaning box and needs 10 minutes
+Time: 123: Car 42 is using a wash street and needs 7 minutes
+Time: 125: 2 cars arrived
+Time: 125: Car 70 arrived at the wash part and wants to wash and clean its interior
+Time: 125: Car 71 arrived at the wash part and wants to wash and clean its interior
+Time: 125: Car 39 finished washing
+Car 39 finished cleaning and left the wash park
+Time: 125: Car 43 is using a wash street and needs 9 minutes
+Time: 126: Car 41 finished washing
+Car 41 finished cleaning and left the wash park
+Time: 126: Car 44 is using a wash street and needs 11 minutes
+Time: 130: 2 cars arrived
+Time: 130: Car 72 arrived at the wash part and wants to wash and clean its interior
+Time: 130: Car 73 arrived at the wash part and wants to wash and clean its interior
+Time: 130: Car 42 finished washing
+Car 42 finished cleaning and left the wash park
+Time: 130: Car 45 is using a wash street and needs 6 minutes
+Time: 133: Car 40 finished interior cleaning
+Car 40 finished cleaning and left the wash park
+Time: 134: Car 43 finished washing
+Time: 134: Car 43 is using an interior cleaning box and needs 15 minutes
+Time: 134: Car 46 is using a wash street and needs 12 minutes
+Time: 135: 1 cars arrived
+Time: 135: Car 74 arrived at the wash part and wants to wash and clean its interior
+Time: 136: Car 45 finished washing
+Car 45 finished cleaning and left the wash park
+Time: 136: Car 47 is using a wash street and needs 7 minutes
+Time: 137: Car 44 finished washing
+Time: 137: Car 44 is using an interior cleaning box and needs 15 minutes
+Time: 137: Car 48 is using a wash street and needs 6 minutes
+Time: 140: 2 cars arrived
+Time: 140: Car 75 arrived at the wash part and wants to wash and clean its interior
+Time: 140: Car 76 arrived at the wash part and wants to wash and clean its interior
+Time: 143: Car 47 finished washing
+Time: 143: Car 49 is using a wash street and needs 12 minutes
+Time: 143: Car 48 finished washing
+Car 48 finished cleaning and left the wash park
+Time: 143: Car 50 is using a wash street and needs 12 minutes
+Time: 145: 2 cars arrived
+Time: 145: Car 77 arrived at the wash part and wants to wash and clean its interior
+Time: 145: Car 78 arrived at the wash part and wants to wash and clean its interior
+Time: 146: Car 46 finished washing
+Car 46 finished cleaning and left the wash park
+Time: 146: Car 51 is using a wash street and needs 12 minutes
+Time: 149: Car 43 finished interior cleaning
+Car 43 finished cleaning and left the wash park
+Time: 150: 2 cars arrived
+Time: 150: Car 79 arrived at the wash part and wants to wash and clean its interior
+Time: 150: Car 80 arrived at the wash part and wants to wash and clean its interior
+Time: 152: Car 44 finished interior cleaning
+Car 44 finished cleaning and left the wash park
+Time: 155: 2 cars arrived
+Time: 155: Car 81 arrived at the wash part and wants to wash and clean its interior
+Time: 155: Car 82 arrived at the wash part and wants to wash and clean its interior
+Time: 155: Car 49 finished washing
+Car 49 finished cleaning and left the wash park
+Time: 155: Car 52 is using a wash street and needs 8 minutes
+Time: 155: Car 50 finished washing
+Time: 155: Car 50 is using an interior cleaning box and needs 5 minutes
+Time: 155: Car 53 is using a wash street and needs 11 minutes
+Time: 158: Car 51 finished washing
+Time: 158: Car 51 is using an interior cleaning box and needs 15 minutes
+Time: 158: Car 54 is using a wash street and needs 6 minutes
+Time: 160: 1 cars arrived
+Time: 160: Car 83 arrived at the wash part and wants to wash and clean its interior
+Time: 160: Car 50 finished interior cleaning
+Car 50 finished cleaning and left the wash park
+Time: 163: Car 52 finished washing
+Car 52 finished cleaning and left the wash park
+Time: 163: Car 55 is using a wash street and needs 11 minutes
+Time: 164: Car 54 finished washing
+Car 54 finished cleaning and left the wash park
+Time: 164: Car 56 is using a wash street and needs 7 minutes
+Time: 165: 1 cars arrived
+Time: 165: Car 84 arrived at the wash part and wants to wash and clean its interior
+Time: 166: Car 53 finished washing
+Car 53 finished cleaning and left the wash park
+Time: 166: Car 57 is using a wash street and needs 6 minutes
+Time: 170: 2 cars arrived
+Time: 170: Car 85 arrived at the wash part and wants to wash and clean its interior
+Time: 170: Car 86 arrived at the wash part and wants to wash and clean its interior
+Time: 171: Car 56 finished washing
+Car 56 finished cleaning and left the wash park
+Time: 171: Car 58 is using a wash street and needs 5 minutes
+Time: 172: Car 57 finished washing
+Car 57 finished cleaning and left the wash park
+Time: 172: Car 59 is using a wash street and needs 12 minutes
+Time: 173: Car 51 finished interior cleaning
+Car 51 finished cleaning and left the wash park
+Time: 174: Car 55 finished washing
+Time: 174: Car 55 is using an interior cleaning box and needs 15 minutes
+Time: 174: Car 60 is using a wash street and needs 9 minutes
+Time: 175: 2 cars arrived
+Time: 175: Car 87 arrived at the wash part and wants to wash and clean its interior
+Time: 175: Car 88 arrived at the wash part and wants to wash and clean its interior
+Time: 176: Car 58 finished washing
+Car 58 finished cleaning and left the wash park
+Time: 176: Car 61 is using a wash street and needs 7 minutes
+Time: 180: 2 cars arrived
+Time: 180: Car 89 arrived at the wash part and wants to wash and clean its interior
+Time: 180: Car 90 arrived at the wash part and wants to wash and clean its interior
+Time: 183: Car 61 finished washing
+Car 61 finished cleaning and left the wash park
+Time: 183: Car 62 is using a wash street and needs 11 minutes
+Time: 183: Car 60 finished washing
+Car 60 finished cleaning and left the wash park
+Time: 183: Car 63 is using a wash street and needs 9 minutes
+Time: 184: Car 59 finished washing
+Time: 184: Car 59 is using an interior cleaning box and needs 10 minutes
+Time: 184: Car 64 is using a wash street and needs 7 minutes
+Time: 185: 2 cars arrived
+Time: 185: Car 91 arrived at the wash part and wants to wash and clean its interior
+Time: 185: Car 92 arrived at the wash part and wants to wash and clean its interior
+Time: 189: Car 55 finished interior cleaning
+Car 55 finished cleaning and left the wash park
+Time: 190: 2 cars arrived
+Time: 190: Car 93 arrived at the wash part and wants to wash and clean its interior
+Time: 190: Car 94 arrived at the wash part and wants to wash and clean its interior
+Time: 191: Car 64 finished washing
+Time: 191: Car 64 is using an interior cleaning box and needs 5 minutes
+Time: 191: Car 65 is using a wash street and needs 11 minutes
+Time: 192: Car 63 finished washing
+Car 63 finished cleaning and left the wash park
+Time: 192: Car 66 is using a wash street and needs 7 minutes
+Time: 194: Car 62 finished washing
+Time: 194: Car 67 is using a wash street and needs 11 minutes
+Time: 194: Car 59 finished interior cleaning
+Car 59 finished cleaning and left the wash park
+Time: 195: 2 cars arrived
+Time: 195: Car 95 arrived at the wash part and wants to wash and clean its interior
+Time: 195: Car 96 arrived at the wash part and wants to wash and clean its interior
+Time: 196: Car 64 finished interior cleaning
+Car 64 finished cleaning and left the wash park
+Time: 199: Car 66 finished washing
+Time: 199: Car 66 is using an interior cleaning box and needs 5 minutes
+Time: 199: Car 69 is using a wash street and needs 10 minutes
+Time: 200: 2 cars arrived
+Time: 200: Car 97 arrived at the wash part and wants to wash and clean its interior
+Time: 200: Car 98 arrived at the wash part and wants to wash and clean its interior
+Time: 202: Car 65 finished washing
+Car 65 finished cleaning and left the wash park
+Time: 202: Car 68 is using a wash street and needs 7 minutes
+Time: 204: Car 66 finished interior cleaning
+Car 66 finished cleaning and left the wash park
+Time: 205: 1 cars arrived
+Time: 205: Car 99 arrived at the wash part and wants to wash and clean its interior
+Time: 205: Car 67 finished washing
+Car 67 finished cleaning and left the wash park
+Time: 205: Car 70 is using a wash street and needs 10 minutes
+Time: 209: Car 69 finished washing
+Time: 209: Car 69 is using an interior cleaning box and needs 5 minutes
+Time: 209: Car 71 is using a wash street and needs 11 minutes
+Time: 209: Car 68 finished washing
+Time: 209: Car 68 is using an interior cleaning box and needs 15 minutes
+Time: 209: Car 72 is using a wash street and needs 12 minutes
+Time: 210: 2 cars arrived
+Time: 210: Car 100 arrived at the wash part and wants to wash and clean its interior
+Time: 210: Car 101 arrived at the wash part and wants to wash and clean its interior
+Time: 214: Car 69 finished interior cleaning
+Car 69 finished cleaning and left the wash park
+Time: 215: 1 cars arrived
+Time: 215: Car 102 arrived at the wash part and wants to wash and clean its interior
+Time: 215: Car 70 finished washing
+Time: 215: Car 70 is using an interior cleaning box and needs 15 minutes
+Time: 215: Car 73 is using a wash street and needs 11 minutes
+Time: 220: 2 cars arrived
+Time: 220: Car 103 arrived at the wash part and wants to wash and clean its interior
+Time: 220: Car 104 arrived at the wash part and wants to wash and clean its interior
+Time: 220: Car 71 finished washing
+Time: 220: Car 74 is using a wash street and needs 12 minutes
+Time: 221: Car 72 finished washing
+Time: 221: Car 75 is using a wash street and needs 5 minutes
+Time: 224: Car 68 finished interior cleaning
+Car 68 finished cleaning and left the wash park
+Time: 225: 2 cars arrived
+Time: 225: Car 105 arrived at the wash part and wants to wash and clean its interior
+Time: 225: Car 106 arrived at the wash part and wants to wash and clean its interior
+Time: 226: Car 73 finished washing
+Time: 226: Car 73 is using an interior cleaning box and needs 5 minutes
+Time: 226: Car 76 is using a wash street and needs 6 minutes
+Time: 226: Car 75 finished washing
+Time: 226: Car 77 is using a wash street and needs 12 minutes
+Time: 230: 2 cars arrived
+Time: 230: Car 107 arrived at the wash part and wants to wash and clean its interior
+Time: 230: Car 108 arrived at the wash part and wants to wash and clean its interior
+Time: 230: Car 70 finished interior cleaning
+Car 70 finished cleaning and left the wash park
+Time: 231: Car 73 finished interior cleaning
+Car 73 finished cleaning and left the wash park
+Time: 232: Car 76 finished washing
+Time: 232: Car 78 is using a wash street and needs 10 minutes
+Time: 232: Car 76 is using an interior cleaning box and needs 15 minutes
+Time: 232: Car 74 finished washing
+Time: 232: Car 74 is using an interior cleaning box and needs 5 minutes
+Time: 232: Car 79 is using a wash street and needs 12 minutes
+Time: 235: 2 cars arrived
+Time: 235: Car 109 arrived at the wash part and wants to wash and clean its interior
+Time: 235: Car 110 arrived at the wash part and wants to wash and clean its interior
+Time: 237: Car 74 finished interior cleaning
+Car 74 finished cleaning and left the wash park
+Time: 238: Car 77 finished washing
+Time: 238: Car 77 is using an interior cleaning box and needs 10 minutes
+Time: 238: Car 80 is using a wash street and needs 10 minutes
+Time: 239: Car 78 finished washing
+Time: 239: Car 81 is using a wash street and needs 11 minutes
+Time: 239: Car 79 finished washing
+Time: 239: Car 82 is using a wash street and needs 9 minutes
+Time: 239: Car 76 finished interior cleaning
+Car 76 finished cleaning and left the wash park
+Time: 239: Car 77 finished interior cleaning
+Car 77 finished cleaning and left the wash park
+Time: 239: Car 80 finished washing
+Time: 239: Car 80 is using an interior cleaning box and needs 10 minutes
+Time: 239: Car 83 is using a wash street and needs 11 minutes
+Time: 239: Car 81 finished washing
+Time: 239: Car 81 is using an interior cleaning box and needs 15 minutes
+Time: 239: Car 84 is using a wash street and needs 7 minutes
+Time: 239: Car 82 finished washing
+Time: 239: Car 85 is using a wash street and needs 8 minutes
+Time: 239: Car 80 finished interior cleaning
+Car 80 finished cleaning and left the wash park
+Time: 239: Car 83 finished washing
+Time: 239: Car 83 is using an interior cleaning box and needs 15 minutes
+Time: 239: Car 86 is using a wash street and needs 9 minutes
+Time: 239: Car 84 finished washing
+Time: 239: Car 88 is using a wash street and needs 7 minutes
+Time: 239: Car 85 finished washing
+Time: 239: Car 87 is using a wash street and needs 10 minutes
+Time: 239: Car 88 finished washing
+Time: 239: Car 89 is using a wash street and needs 5 minutes
+Time: 239: Car 81 finished interior cleaning
+Car 81 finished cleaning and left the wash park
+Time: 239: Car 86 finished washing
+Time: 239: Car 90 is using a wash street and needs 7 minutes
+Time: 239: Car 86 is using an interior cleaning box and needs 10 minutes
+Time: 239: Car 87 finished washing
+Time: 239: Car 91 is using a wash street and needs 8 minutes
+Time: 239: Car 89 finished washing
+Time: 239: Car 92 is using a wash street and needs 10 minutes
+Time: 239: Car 83 finished interior cleaning
+Car 83 finished cleaning and left the wash park
+Time: 239: Car 90 finished washing
+Time: 239: Car 90 is using an interior cleaning box and needs 5 minutes
+Time: 239: Car 93 is using a wash street and needs 6 minutes
+Time: 239: Car 86 finished interior cleaning
+Car 86 finished cleaning and left the wash park
+Time: 239: Car 91 finished washing
+Time: 239: Car 91 is using an interior cleaning box and needs 10 minutes
+Time: 239: Car 94 is using a wash street and needs 7 minutes
+Time: 239: Car 90 finished interior cleaning
+Car 90 finished cleaning and left the wash park
+Time: 239: Car 93 finished washing
+Time: 239: Car 93 is using an interior cleaning box and needs 15 minutes
+Time: 239: Car 95 is using a wash street and needs 9 minutes
+Time: 239: Car 92 finished washing
+Time: 239: Car 96 is using a wash street and needs 9 minutes
+Time: 239: Car 94 finished washing
+Time: 239: Car 97 is using a wash street and needs 8 minutes
+Time: 239: Car 91 finished interior cleaning
+Car 91 finished cleaning and left the wash park
+Time: 239: Car 95 finished washing
+Time: 239: Car 95 is using an interior cleaning box and needs 5 minutes
+Time: 239: Car 98 is using a wash street and needs 12 minutes
+Time: 239: Car 96 finished washing
+Time: 239: Car 99 is using a wash street and needs 5 minutes
+Time: 239: Car 97 finished washing
+Time: 239: Car 100 is using a wash street and needs 5 minutes
+Time: 239: Car 95 finished interior cleaning
+Car 95 finished cleaning and left the wash park
+Time: 239: Car 99 finished washing
+Time: 239: Car 99 is using an interior cleaning box and needs 10 minutes
+Time: 239: Car 101 is using a wash street and needs 12 minutes
+Time: 239: Car 93 finished interior cleaning
+Car 93 finished cleaning and left the wash park
+Time: 239: Car 100 finished washing
+Time: 239: Car 100 is using an interior cleaning box and needs 15 minutes
+Time: 239: Car 102 is using a wash street and needs 11 minutes
+Time: 239: Car 98 finished washing
+Time: 239: Car 103 is using a wash street and needs 12 minutes
+Time: 239: Car 99 finished interior cleaning
+Car 99 finished cleaning and left the wash park
+Time: 239: Car 101 finished washing
+Time: 239: Car 101 is using an interior cleaning box and needs 10 minutes
+Time: 239: Car 104 is using a wash street and needs 12 minutes
+Time: 239: Car 102 finished washing
+Time: 239: Car 105 is using a wash street and needs 7 minutes
+Time: 239: Car 100 finished interior cleaning
+Car 100 finished cleaning and left the wash park
+Time: 239: Car 103 finished washing
+Time: 239: Car 103 is using an interior cleaning box and needs 10 minutes
+Time: 239: Car 106 is using a wash street and needs 8 minutes
+Time: 239: Car 105 finished washing
+Time: 239: Car 107 is using a wash street and needs 12 minutes
+Time: 239: Car 101 finished interior cleaning
+Car 101 finished cleaning and left the wash park
+Time: 239: Car 104 finished washing
+Time: 239: Car 104 is using an interior cleaning box and needs 5 minutes
+Time: 239: Car 108 is using a wash street and needs 7 minutes
+Time: 239: Car 106 finished washing
+Time: 239: Car 110 is using a wash street and needs 9 minutes
+Time: 239: Car 103 finished interior cleaning
+Car 103 finished cleaning and left the wash park
+Time: 239: Car 104 finished interior cleaning
+Car 104 finished cleaning and left the wash park
+Time: 239: Car 108 finished washing
+Time: 239: Car 108 is using an interior cleaning box and needs 10 minutes
+Time: 239: Car 109 is using a wash street and needs 11 minutes
+Time: 239: Car 107 finished washing
+Time: 239: Car 107 is using an interior cleaning box and needs 15 minutes
+Time: 239: Car 110 finished washing
+Time: 239: Car 108 finished interior cleaning
+Car 108 finished cleaning and left the wash park
+Time: 239: Car 109 finished washing
+Time: 239: Car 109 is using an interior cleaning box and needs 10 minutes
+Time: 239: Car 107 finished interior cleaning
+Car 107 finished cleaning and left the wash park
+Time: 239: Car 109 finished interior cleaning
+Car 109 finished cleaning and left the wash park
